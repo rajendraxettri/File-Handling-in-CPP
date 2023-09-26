@@ -12,9 +12,11 @@ class studentManagementSystem{
         system("CLS");
     // SetConsoleTextAttribute(h,11);
     startCode:
-        cout<<"\t\t\t\t-------------------------------------------------------"<<endl;
-        cout<<"\t\t\t\t------------< STUDENT MANAGEMENT SYSTEM >--------------"<<endl;
-        cout<<"\t\t\t\t------------< GHODAGHODI MULTIPLE CAMPUS >-------------"<<endl;
+        cout<<"\t\t\t\t|-------------------------------------------------------|"<<endl;
+        cout<<"\t\t\t\t|------------< STUDENT MANAGEMENT SYSTEM >--------------|"<<endl;
+        cout<<"\t\t\t\t|------------< GHODAGHODI MULTIPLE CAMPUS >-------------|"<<endl;
+        cout<<"\t\t\t\t|-------------------------------------------------------|"<<endl;
+
         cout<<"---------------> CHOOSE OPTION 1 TO 6 ! "<<endl;
 
 
